@@ -1,8 +1,16 @@
 # 🐍 Python Progress Journey
+    ## 📊 Python Learning Journey Badges
 
-![Progress](https://img.shields.io/badge/Progress-Phase%201%20Complete-success)
-![Lessons](https://img.shields.io/badge/Lessons-14%2F100-blue)
-![Commit Frequency](https://img.shields.io/github/commit-activity/w/yourusername/python-journey)
+    ![Progress](https://img.shields.io/badge/Progress-Week%202%20In%20Progress-blue)
+    ![Lessons](https://img.shields.io/badge/Lessons%20Completed-14%2F100-green)
+    ![Commit Activity](https://img.shields.io/github/commit-activity/w/theSnazzyJaz/python-learning-journal)
+    ![Python](https://img.shields.io/badge/Python-3.11-blue)
+    ![Capstone 1](https://img.shields.io/badge/Capstone%201-Not%20Started-lightgrey)
+    ![Capstone 2](https://img.shields.io/badge/Capstone%202-Not%20Started-lightgrey)
+    ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+
+
+    #for more custom badges, go to : https://shields.io/
 
 ## ✅ Checklist
 
