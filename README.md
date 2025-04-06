@@ -1,15 +1,15 @@
 # 🐍 Python Progress Journey
-   
-    ## ✅ Progress Overview
 
-    | Phase                     | Week | Topics                                           | Status         |
-    | ------------------------- | ---- | ------------------------------------------------ | -------------- |
-    | Foundations               | 1    | Variables, Conditionals, Loops, Functions, Scope | ✅ Completed    |
-    | Foundations               | 2    | Lists, Dictionaries, Sets, Tuples, Strings       | 🔄 In Progress |
-    | Foundations               | 3    | File I/O, JSON, CSV, Web APIs                    | ⏳ Pending      |
-    | Tooling & Productivity    | 4    | Error Handling, Debugging, Logging, Unit Testing | ⏳ Pending      |
-    | Data Science + Automation | 6    | NumPy, pandas, matplotlib                        | ⏳ Pending      |
-    | Web Development           | 9    | Flask, HTML Templates, Forms                     | ⏳ Pending      |
+## ✅ Progress Overview
+
+| Phase                     | Week | Topics                                           | Status         |
+| ------------------------- | ---- | ------------------------------------------------ | -------------- |
+| Foundations               | 1    | Variables, Conditionals, Loops, Functions, Scope | ✅ Completed    |
+| Foundations               | 2    | Lists, Dictionaries, Sets, Tuples, Strings       | 🔄 In Progress |
+| Foundations               | 3    | File I/O, JSON, CSV, Web APIs                    | ⏳ Pending      |
+| Tooling & Productivity    | 4    | Error Handling, Debugging, Logging, Unit Testing | ⏳ Pending      |
+| Data Science + Automation | 6    | NumPy, pandas, matplotlib                        | ⏳ Pending      |
+| Web Development           | 9    | Flask, HTML Templates, Forms                     | ⏳ Pending      |
 
 ## ✅ Checklist
 
